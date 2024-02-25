@@ -1,0 +1,10 @@
+C:\Aplicacoes_eosti\MouseAplicativo\MouseApp\MouseApp\obj\Debug\MouseApp.csproj.AssemblyReference.cache
+C:\Aplicacoes_eosti\MouseAplicativo\MouseApp\MouseApp\obj\Debug\MouseApp.Properties.Resources.resources
+C:\Aplicacoes_eosti\MouseAplicativo\MouseApp\MouseApp\obj\Debug\MouseApp.csproj.GenerateResource.cache
+C:\Aplicacoes_eosti\MouseAplicativo\MouseApp\MouseApp\obj\Debug\MouseApp.csproj.CoreCompileInputs.cache
+C:\Aplicacoes_eosti\MouseAplicativo\MouseApp\MouseApp\bin\Debug\MouseApp.exe.config
+C:\Aplicacoes_eosti\MouseAplicativo\MouseApp\MouseApp\bin\Debug\MouseApp.exe
+C:\Aplicacoes_eosti\MouseAplicativo\MouseApp\MouseApp\bin\Debug\MouseApp.pdb
+C:\Aplicacoes_eosti\MouseAplicativo\MouseApp\MouseApp\obj\Debug\MouseApp.exe
+C:\Aplicacoes_eosti\MouseAplicativo\MouseApp\MouseApp\obj\Debug\MouseApp.pdb
+C:\Aplicacoes_eosti\MouseAplicativo\MouseApp\MouseApp\obj\Debug\MouseApp.Form1.resources
